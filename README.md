@@ -32,17 +32,19 @@ This project analyzes Swiggy food delivery data using Excel, Python, and SQL to 
 
 📸 Project Screenshots
 
-📊 Raw Dataset (Excel Sheet)
+Dashboard
 
-<img src="data_sheet.png" width="800"/>---
+"Dashboard" (dashboard.png)
 
-📊 Pivot Table & Sales Trend
+Pivot Table Analysis
 
-<img src="pivot_chart.png" width="800"/>---
+"Pivot" (pivot_analysis.png)
 
-📊 Interactive Dashboard
+Data Cleaning
 
-<img src="dashboard.png" width="800"/>---
+"Cleaning" (data_cleaning.png)
+
+---
 
 📈 Insights
 
@@ -64,4 +66,6 @@ This project analyzes Swiggy food delivery data using Excel, Python, and SQL to 
 
 For queries, feel free to connect.
 
----
+---<img width="1080" height="648" alt="31849" src="https://github.com/user-attachments/assets/ee0843f0-f0f2-4701-9ce1-95c7e1aefb45" />
+<img width="1080" height="2105" alt="31842" src="https://github.com/user-attachments/assets/caa4c340-ddcb-47cc-9d76-bb544f90452e" />
+<img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/0602797d-75e9-4a90-a50c-ed717b71c43f" />
