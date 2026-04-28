@@ -128,6 +128,6 @@ Deploy insights using a web dashboard
 ---
 
 📬 Contact
-<img width="1536" height="1024" alt="31879" src="https://github.com/user-attachments/assets/6502c054-df2a-47f4-933d-5bca97a5c3ab" />
+
 
 
