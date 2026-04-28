@@ -20,8 +20,10 @@ Data cleaning (handling missing values, formatting)
 Pivot tables for summarization
 Dashboard creation with charts and slicers
 
-- excel sheet of analysi
-- <img width="1080" height="648" alt="31849" src="https://github.com/user-attachments/assets/4e748908-e125-41ac-81ff-b3337ce97b5a" />
+- excel sheet of analysis
+-  
+<img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/b075e94c-ceb0-4f02-9675-c9cc23ed5e45" /><img width="1536" height="1024" alt="31879" src="https://github.com/user-attachments/assets/79bf1df5-2c70-4f2f-8e0f-900e55528fc0" />
+- 
 
 - SQL (Data Querying)
 - 🗄️ SQL (Microsoft SQL Server)
@@ -113,8 +115,8 @@ Deploy insights using a web dashboard
 - Analyzed customer ordering patterns
 - Found peak order timings
 - dashboard insights
-- 
-<img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/b075e94c-ceb0-4f02-9675-c9cc23ed5e45" /><img width="1536" height="1024" alt="31879" src="https://github.com/user-attachments/assets/79bf1df5-2c70-4f2f-8e0f-900e55528fc0" />
+- <img width="1080" height="927" alt="31892" src="https://github.com/user-attachments/assets/b71a92ce-7ebd-41d6-9d85-3ef9c757e85a" 
+
 
 
 ---
