@@ -22,7 +22,7 @@ Dashboard creation with charts and slicers
 
 - excel sheet of analysis
 -  
-<img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/b075e94c-ceb0-4f02-9675-c9cc23ed5e45" /><img width="1536" height="1024" alt="31879" src="https://github.com/user-attachments/assets/79bf1df5-2c70-4f2f-8e0f-900e55528fc0" />
+<img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/b075e94c-ceb0-4f02-9675-c9cc23ed5e45" 
 - 
 
 - SQL (Data Querying)
@@ -107,8 +107,11 @@ Build a Power BI interactive dashboard
 Implement predictive analytics using Machine Learning
 Automate data pipeline using ETL tools
 Deploy insights using a web dashboard
+-dashboard analysis 
 
 
+
+<img width="1080" height="927" alt="31892" src="https://github.com/user-attachments/assets/80219a98-df77-44dd-a371-1c5a8ed51572" />
 📈 Insights
 
 - Identified top-selling categories
