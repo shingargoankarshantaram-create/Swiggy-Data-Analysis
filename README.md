@@ -124,15 +124,7 @@ Deploy insights using a web dashboard
 
 ---
 
-🚀 How to Use
 
-1. Download dataset files
-2. Open Excel dashboard
-3. Explore insights
-
----
-
-📬 Contact
 
 
 
