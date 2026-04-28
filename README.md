@@ -21,9 +21,8 @@ Pivot tables for summarization
 Dashboard creation with charts and slicers
 
 - excel sheet of analysis
--  
-<img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/b075e94c-ceb0-4f02-9675-c9cc23ed5e45" 
-- 
+- <img width="1080" height="700" alt="31823" src="https://github.com/user-attachments/assets/c1434d57-70dc-4ca5-bb08-541b5a09ddc1" />
+
 
 - SQL (Data Querying)
 - 🗄️ SQL (Microsoft SQL Server)
@@ -111,7 +110,7 @@ Deploy insights using a web dashboard
 
 
 
-<img width="1080" height="927" alt="31892" src="https://github.com/user-attachments/assets/80219a98-df77-44dd-a371-1c5a8ed51572" />
+
 📈 Insights
 
 - Identified top-selling categories
