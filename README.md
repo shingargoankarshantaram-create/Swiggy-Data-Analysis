@@ -117,7 +117,8 @@ Deploy insights using a web dashboard
 - Analyzed customer ordering patterns
 - Found peak order timings
 - dashboard insights
-- <img width="1080" height="927" alt="31892" src="https://github.com/user-attachments/assets/b71a92ce-7ebd-41d6-9d85-3ef9c757e85a" 
+- <img width="1080" height="927" alt="31892" src="https://github.com/user-attachments/assets/87352bd6-2af1-426b-8231-fa52692d4cba" />
+
 
 
 
